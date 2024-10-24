@@ -1,0 +1,6 @@
+@WebRoster.API_HostAddress = http://localhost:5037
+
+GET {{WebRoster.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
